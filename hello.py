@@ -1,1 +1,1 @@
-print("Hello from the feature branch!")
+print("Hello from the cloned repository!")
